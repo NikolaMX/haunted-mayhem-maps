@@ -1,0 +1,31 @@
+{
+    "context": "client",
+    "identifier": "com.pa.nik.haunted-mayhem-maps",
+    "display_name": "Haunted Mayhem Map Pack",
+    "description": "Custom maps for Haunted Mayhem / Medieval Mode",
+    "author": "NikolaMX",
+    "version": "1.0.0",
+    "build": "124635",
+    "date": "2026-04-15",
+    "signature": "not yet implemented",
+    "forum": "https://steamcommunity.com/app/386070/discussions/0/805719856669440922/",
+    "icon": "https://i.imgur.com/jtTEm7Y.gif",
+    "category": [
+        "maps",
+        "pack",
+        "systems",
+        "planet",
+        "planets"
+    ],
+    "load_planet": [
+        "coui://ui/mods/com.pa.nik.haunted-mayhem-maps/maplist.js"
+    ],
+    "priority": 100,
+    "enabled": true,
+    "dependencies": [
+        "com.pa.conundrum.cShareSystems"
+    ],
+    "authors": [
+        "NikolaMX"
+    ]
+}
